@@ -1,0 +1,24 @@
+python 3.8.0
+
+Distributor ID: Ubuntu
+Description:    Ubuntu 18.04.5 LTS
+Release:        18.04
+Codename:       bionic
+
+Jetpack:
+Package: nvidia-jetpack
+Version: 4.6-b199
+Architecture: arm64
+Maintainer: NVIDIA Corporation
+Installed-Size: 194
+Depends: nvidia-cuda (= 4.6-b199), nvidia-opencv (= 4.6-b199), nvidia-cudnn8 (= 4.6-b199), nvidia-tensorrt (= 4.6-b199), nvidia-visionworks (= 4.6-b199), nvidia-container (= 4.6-b199), nvidia-vpi (= 4.6-b199), nvidia-l4t-jetson-multimedia-api (>> 32.6-0), nvidia-l4t-jetson-multimedia-api (<< 32.7-0)
+Homepage: http://developer.nvidia.com/jetson
+Priority: standard
+Section: metapackages
+Filename: pool/main/n/nvidia-jetpack/nvidia-jetpack_4.6-b199_arm64.deb
+Size: 29370
+SHA256: 4eaefaa615187785d1dabaf63cdab231473b774e91026b4403d767587b190eb1
+SHA1: 1cb79168d8d01cd61b4da7d96ad67000e0a097b0
+MD5sum: 7d9a90c14c62c42d6d9a0b0e3339f8a8
+Description: NVIDIA Jetpack Meta Package
+Description-md5: ad1462289bdbc54909ae109d1d32c0a8
